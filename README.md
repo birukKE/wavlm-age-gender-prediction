@@ -8,5 +8,4 @@ with a shared encoder backbone and task-specific classification heads.
 - Extract WavLM embeddings from speech audio
 - Gender classification (male/female)
 - Age group classification (teens to nineties)
-- Multi-task learning support
 - PyTorch-based training pipeline
